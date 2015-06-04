@@ -1,5 +1,6 @@
 EasyDark
 ========
+[NB : JulienJo: I just changed the background of selected color for more contrast]
 
 Dark theme that's just easy on your eyes.
 
